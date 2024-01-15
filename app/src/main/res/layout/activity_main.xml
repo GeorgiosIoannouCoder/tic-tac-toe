@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0E0E0"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:fontFamily="monospace"
+        android:text="@string/homePageTitle"
+        android:textAllCaps="false"
+        android:textColor="#806043"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnOnePlayer"
+        android:layout_width="140dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="130dp"
+        android:background="@drawable/one_player_button"
+        android:fontFamily="sans-serif"
+        android:onClick="onePlayerButton"
+        android:text="@string/onePlayerButton"
+        android:textColor="#263238"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        tools:ignore="TextContrastCheck" />
+
+    <Button
+        android:id="@+id/btnTwoPlayer"
+        android:layout_width="140dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/one_player_button"
+        android:fontFamily="sans-serif"
+        android:onClick="twoPlayerButton"
+        android:text="@string/twoPlayerButton"
+        android:textColor="#263238"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnOnePlayer" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

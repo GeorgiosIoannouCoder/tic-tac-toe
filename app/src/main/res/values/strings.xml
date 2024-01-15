@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="homePageTitle">\t\t\tTIC TAC TOE\n\t\t\t\t\t\tHOME PAGE</string>
+    <string name="onePlayerButton">ONE - PLAYER</string>
+    <string name="twoPlayerButton">TWO - PLAYER</string>
+    <string name="playersNamesAndSymbol">\tEnter Player Name And Symbol</string>
+    <string name="playerOneName">Player 1 - Name</string>
+    <string name="playerOneSymbol">Player 1 - Symbol</string>
+    <string name="simulatorName">Simulator - Name</string>
+    <string name="android">Android</string>
+    <string name="O">O</string>
+    <string name="simulatorSymbol">Simulator - Symbol</string>
+    <string name="firstTurn">First Turn</string>
+    <string name="playerOneFirstTurn">Player 1</string>
+    <string name="simulatorFirstTurn">Simulator</string>
+    <string name="startButton">START</string>
+    <string name="homeButton">HOME</string>
+    <string name="playerTwoName">Player 2 - Name</string>
+    <string name="playerTwoSymbol">Player 2 - Symbol</string>
+    <string name="playerTwoFirstTurn">Player 2</string>
+    <string name="nameHint">Name</string>
+    <string name="symbolHint">Symbol</string>
+    <string name="resetButton">RESET</string>
+</resources>

@@ -1,0 +1,94 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FinalProgrammingProject" parent="Theme.Design.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="styleableToastError">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#FFFFFF</item>
+        <item name="stTextSize">19sp</item>
+        <item name="stColorBackground">#FF0000</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#FF0000</item>
+        <item name="stLength">SHORT</item>
+        <item name="stGravity">center</item>
+        <item name="stRadius">70dp</item>
+        <item name="stIconStart">@drawable/ic_baseline_error_outline_24</item>
+    </style>
+
+    <style name="styleableToastPlayerOneWinner">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#FFFFFF</item>
+        <item name="stTextSize">23sp</item>
+        <item name="stColorBackground">#436380</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#436380</item>
+        <item name="stLength">SHORT</item>
+        <item name="stRadius">70dp</item>
+        <item name="stIconStart">@drawable/ic_baseline_emoji_emotions_24</item>
+    </style>
+
+    <style name="styleableToastPlayerTwoWinner">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#FFFFFF</item>
+        <item name="stTextSize">23sp</item>
+        <item name="stColorBackground">#438060</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#438060</item>
+        <item name="stLength">SHORT</item>
+        <item name="stRadius">70dp</item>
+        <item name="stIconStart">@drawable/ic_baseline_emoji_emotions_24</item>
+    </style>
+
+    <style name="styleableToastSimulator">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#FFFFFF</item>
+        <item name="stTextSize">17sp</item>
+        <item name="stColorBackground">#000000</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#000000</item>
+        <item name="stLength">SHORT</item>
+        <item name="stRadius">70dp</item>
+        <item name="stIconStart">@drawable/ic_baseline_android_24</item>
+    </style>
+
+    <style name="styleableToastDraw">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#FFFFFF</item>
+        <item name="stTextSize">23sp</item>
+        <item name="stColorBackground">#424242</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#424242</item>
+        <item name="stLength">SHORT</item>
+        <item name="stRadius">70dp</item>
+    </style>
+
+    <style name="styleableToastPlayAgain">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#FFFFFF</item>
+        <item name="stTextSize">23sp</item>
+        <item name="stColorBackground">#A3806043</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#A3806043</item>
+        <item name="stLength">SHORT</item>
+        <item name="stGravity">center</item>
+        <item name="stRadius">70dp</item>
+    </style>
+</resources>

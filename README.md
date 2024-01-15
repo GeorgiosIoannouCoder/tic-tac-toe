@@ -135,6 +135,8 @@ The main code files can be found [here](https://github.com/GeorgiosIoannouCoder/
 
 Project demo and features are [here](https://github.com/GeorgiosIoannouCoder/tic-tac-toe/blob/main/FinalProgrammingProjectVideoSubtitles.mp4).
 
+https://github.com/GeorgiosIoannouCoder/tic-tac-toe/assets/110848236/bb084339-e831-433f-9d96-2e03fd07f97a
+
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
 ## Slides

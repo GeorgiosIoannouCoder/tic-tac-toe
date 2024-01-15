@@ -11,9 +11,7 @@
 
 <br />
 <div align="center">
-  <a href="https://tic-tac-toe.herokuapp.com/">
-    <img src="logo.png" alt="Logo" width="200" height="200">
-  </a>
+  <img src="logo.png" alt="Logo" width="200" height="200">
 
 <h3 align="center">Tic Tac Toe</h3>
 
@@ -37,7 +35,6 @@
       <ul>
         <li><a href="#key-features">Key Features</a></li>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#architecture">Architecture</a></li>
       </ul>
     </li>
     <li>
@@ -45,6 +42,8 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#demo">Demo</a></li>
+        <li><a href="#slides">Slides</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>

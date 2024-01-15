@@ -160,7 +160,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/GeorgiosIoan
 
 MIT License
 
-Copyright (c) 2023 Georgios Ioannou
+Copyright (c) 2021 Georgios Ioannou
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

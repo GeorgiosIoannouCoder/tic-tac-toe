@@ -42,11 +42,11 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#demo">Demo</a></li>
-        <li><a href="#slides">Slides</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#code">Code</a></li>
+    <li><a href="#demo">Demo</a></li>
+    <li><a href="#slides">Slides</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -123,6 +123,12 @@
    
 8. Run the application inside Android Studio.
    
+<p align="right"><a href="#readme-top">Back to top</a></p>
+
+## Code
+
+The main code files can be found [here](https://github.com/GeorgiosIoannouCoder/tic-tac-toe/tree/main/app/src/main/java/edu/cuny/ccny/finalprogrammingproject).
+
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
 ## Demo

@@ -59,7 +59,7 @@
 
 ### Key Features
 
-1. **Being able to play the game successfully without any errors. Consider all possible combinations that exist in winning a “Tic Tac Toe” game. There are a total of eight combinations to win a “Tic Tac Toe” game. Moreover, there are 255,168 unique ways of playing the “Tic Tac Toe” game**
+1. **Being able to play the game successfully without any errors. Consider all possible combinations that exist in winning a “Tic Tac Toe” game. There are a total of eight combinations to win a “Tic Tac Toe” game. Moreover, there are 255,168 unique ways of playing the “Tic Tac Toe” game.**
 2. **Keeping score of the game. Distinguish if player 1 wins, or player 2 wins, or it is a draw. When a player wins, then the score increases for that player. When it is a draw, the score of both players stays the same.**
 3. **When a player wins, display a toast message displaying the name of the player who won.**
 4. **Reset button that resets the game and the score.**

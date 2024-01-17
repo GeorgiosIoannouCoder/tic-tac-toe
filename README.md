@@ -85,7 +85,19 @@
 
 ### Prerequisites
 
-1. Please make sure you have Android Studio installed. You can download it [here](https://developer.android.com/studio).
+**NOTE:** How to check if Git is installed and what is its version
+
+```sh
+  git -v
+```
+
+1. Please make sure you have git installed
+
+   - Windows: [https://git-scm.com/download/win](https://git-scm.com/download/win)
+   - Mac: [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
+   - Linux: [https://git-scm.com/download/linux](https://git-scm.com/download/linux)
+
+2. Please make sure you have Android Studio installed. You can download it [here](https://developer.android.com/studio).
 
 ### Installation
 
